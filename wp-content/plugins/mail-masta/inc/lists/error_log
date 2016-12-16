@@ -1,0 +1,2 @@
+[26-Aug-2016 23:16:01 America/Chicago] PHP Fatal error:  Call to a member function get_results() on a non-object in /home4/ab23657/public_html/wp-content/plugins/mail-masta/inc/lists/csvexport.php on line 14
+[26-Aug-2016 23:16:31 America/Chicago] PHP Fatal error:  Call to a member function get_results() on a non-object in /home4/ab23657/public_html/wp-content/plugins/mail-masta/inc/lists/csvexport.php on line 14
